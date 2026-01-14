@@ -132,7 +132,7 @@ All experiments use identical data splits to ensure fairness.
 
 ## Author
 
-**Aqiela Putriana Shabira**
-Undergraduate Program in Data Science
-Faculty of Informatics, Telkom University
-Bandung, Indonesia
+* **Aqiela Putriana Shabira**
+* Undergraduate Program in Data Science
+* Faculty of Informatics, Telkom University
+* Bandung, Indonesia
