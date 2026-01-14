@@ -7,10 +7,10 @@ A comparative study of Support Vector Machines (SVM) and Graph Convolutional Net
 │   ├── fake_reviews_dataset.csv      # Raw dataset
 │   └── fake_reviews_cleaned.csv      # Preprocessed dataset
 ├── utility/
-│   ├── salmien_gcn_code3_FINAL.py     # GCN model implementation
-│   └── salmien_svm_FINAL.py           # SVM model implementation
+│   ├── gcn_util.py           # GCN model implementation
+│   └── svm_util.py           # SVM model implementation
 ├── 1_Prepocessing.ipynb               # Data cleaning pipeline
-├── 2_GCN_Model.ipynb                  # GCN model development
-├── 2_SVM_Model.ipynb                  # SVM model development
+├── 2B_GCN_Model.ipynb                  # GCN model development
+├── 2A_SVM_Model.ipynb                  # SVM model development
 ├── 3_Experiment.ipynb                 # Comparative analysis pipeline
 └── README.md                          # This documentation
